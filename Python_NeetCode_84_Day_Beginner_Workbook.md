@@ -9,6 +9,11 @@
 
 ## README — Start here
 
+**LINK FIXES (November 23, 2026):** The original workbook incorrectly pointed `print()` to a nonexistent Programiz `/print` page, and `Variables` to the Data Types page rather than the Variables lesson. Both are corrected. NeetCode lesson numbers below follow the course's own numbered navigation; its website renders some lesson pages dynamically, so open the [course home](https://neetcode.io/courses/dsa-for-beginners/0) and select the numbered lesson in the sidebar if a deep link does not load in your browser. If a video is locked, that is an access restriction, not a broken URL.
+
+**Link troubleshooting:** In Google Docs/Markdown preview, click the linked lesson title; in plain-text views, copy the URL in parentheses. Some apps do not turn raw Markdown into clickable links unless you're in Preview mode.
+
+
 1. Open the [Python coding sandbox](https://www.programiz.com/python-programming/online-compiler/) and keep it alongside this file.
 2. Each day, click the **Python lesson** link, then the **NeetCode lesson** link(s). A lesson may be revisited across several days intentionally.
 3. Follow **30 min Python → 40 min NeetCode → 40 min write code → 10 min review**.
@@ -58,7 +63,7 @@
 
 ### Day 01 — Mon, Nov 23: print() and numeric expressions
 
-- [ ] **30 min · Python:** Study [print() and numeric expressions](https://www.programiz.com/python-programming/print). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [print() and numeric expressions](https://www.programiz.com/python-programming/input-output-import). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Introduction — lesson 0](https://neetcode.io/courses/dsa-for-beginners/0), [RAM — lesson 1](https://neetcode.io/courses/dsa-for-beginners/1). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Print a sentence, the integer 2026, and 15 + 25; create a 5-item list and print item 0.
 - [ ] **10 min · Reflect:** Explain how a string differs from an integer.
@@ -69,7 +74,7 @@
 
 ### Day 02 — Tue, Nov 24: Variables and types
 
-- [ ] **30 min · Python:** Study [Variables and types](https://www.programiz.com/python-programming/variables-datatypes). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Variables and types](https://www.programiz.com/python-programming/variables-constants-literals). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Create variables for a name, age, and score; print them; index and replace an array item.
 - [ ] **10 min · Reflect:** Explain what assignment (=) means.
@@ -80,7 +85,7 @@
 
 ### Day 03 — Wed, Nov 25: Lists and indexing
 
-- [ ] **30 min · Python:** Study [Lists and indexing](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Lists and indexing](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Build a list of 5 numbers; access first/last, overwrite third, and explain index 0.
 - [ ] **10 min · Reflect:** Predict what nums[2] returns.
@@ -91,7 +96,7 @@
 
 ### Day 04 — Thu, Nov 26: if / elif / else
 
-- [ ] **30 min · Python:** Study [if / elif / else](https://www.programiz.com/python-programming/if-elif-else). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [if / elif / else](https://www.programiz.com/python-programming/if-elif-else). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Find the greater of two numbers; find the largest of three manually.
 - [ ] **10 min · Reflect:** Write a condition without looking it up.
@@ -102,7 +107,7 @@
 
 ### Day 05 — Fri, Nov 27: for loops and range()
 
-- [ ] **30 min · Python:** Study [for loops and range()](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [for loops and range()](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Print every item and calculate a list sum without sum().
 - [ ] **10 min · Reflect:** Explain what changes each loop iteration.
@@ -113,7 +118,7 @@
 
 ### Day 06 — Sat, Nov 28: while loops
 
-- [ ] **30 min · Python:** Study [while loops](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [while loops](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write a while-based linear search returning a matching index or -1.
 - [ ] **10 min · Reflect:** Avoid infinite loops by updating a counter.
@@ -124,7 +129,7 @@
 
 ### Day 07 — Sun, Nov 29: Function basics + review
 
-- [ ] **30 min · Python:** Study [Function basics + review](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Function basics + review](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement sum_array(nums) and find_max(nums), then redo one array exercise.
 - [ ] **10 min · Reflect:** Explain input, output, return, and why indices start at 0.
@@ -141,7 +146,7 @@
 
 ### Day 08 — Mon, Nov 30: List append / pop
 
-- [ ] **30 min · Python:** Study [List append / pop](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [List append / pop](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Dynamic Arrays — lesson 3](https://neetcode.io/courses/dsa-for-beginners/3). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Start with []; append 5 values; remove 2; explain size vs capacity.
 - [ ] **10 min · Reflect:** Explain why list growth may require copying.
@@ -152,7 +157,7 @@
 
 ### Day 09 — Tue, Dec 01: List slicing and iteration
 
-- [ ] **30 min · Python:** Study [List slicing and iteration](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [List slicing and iteration](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Dynamic Arrays — lesson 3](https://neetcode.io/courses/dsa-for-beginners/3). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Reverse a list with a loop and compare to nums[::-1].
 - [ ] **10 min · Reflect:** Explain why slices create new lists.
@@ -163,7 +168,7 @@
 
 ### Day 10 — Wed, Dec 02: Stack with Python lists
 
-- [ ] **30 min · Python:** Study [Stack with Python lists](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Stack with Python lists](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Build push/pop/peek operations using append(), pop(), and [-1].
 - [ ] **10 min · Reflect:** Explain last-in, first-out.
@@ -174,7 +179,7 @@
 
 ### Day 11 — Thu, Dec 03: String indexing
 
-- [ ] **30 min · Python:** Study [String indexing](https://www.programiz.com/python-programming/string). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [String indexing](https://www.programiz.com/python-programming/string). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Reverse a short string by pushing characters on a stack.
 - [ ] **10 min · Reflect:** Explain why strings cannot be changed in place.
@@ -185,7 +190,7 @@
 
 ### Day 12 — Fri, Dec 04: Dictionary basics
 
-- [ ] **30 min · Python:** Study [Dictionary basics](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Dictionary basics](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Count letter frequencies using a dictionary.
 - [ ] **10 min · Reflect:** Explain key lookup.
@@ -196,7 +201,7 @@
 
 ### Day 13 — Sat, Dec 05: Set membership
 
-- [ ] **30 min · Python:** Study [Set membership](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Set membership](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Dynamic Arrays — lesson 3](https://neetcode.io/courses/dsa-for-beginners/3), [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement contains_duplicate(nums) using a set.
 - [ ] **10 min · Reflect:** Explain list vs set membership.
@@ -207,7 +212,7 @@
 
 ### Day 14 — Sun, Dec 06: Big-O + weekly checkpoint
 
-- [ ] **30 min · Python:** Study [Big-O + weekly checkpoint](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Big-O + weekly checkpoint](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2), [Dynamic Arrays — lesson 3](https://neetcode.io/courses/dsa-for-beginners/3), [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo one static-array and one stack exercise without notes.
 - [ ] **10 min · Reflect:** Distinguish O(1), O(n), and O(n²).
@@ -224,7 +229,7 @@
 
 ### Day 15 — Mon, Dec 07: Objects and classes
 
-- [ ] **30 min · Python:** Study [Objects and classes](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Objects and classes](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Singly Linked Lists — lesson 5](https://neetcode.io/courses/dsa-for-beginners/5). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write a Node class holding val and next.
 - [ ] **10 min · Reflect:** Explain object versus variable.
@@ -235,7 +240,7 @@
 
 ### Day 16 — Tue, Dec 08: References and None
 
-- [ ] **30 min · Python:** Study [References and None](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [References and None](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Singly Linked Lists — lesson 5](https://neetcode.io/courses/dsa-for-beginners/5). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Connect three nodes and print each value via .next.
 - [ ] **10 min · Reflect:** Trace pointers without running code.
@@ -246,7 +251,7 @@
 
 ### Day 17 — Wed, Dec 09: Traversing nodes
 
-- [ ] **30 min · Python:** Study [Traversing nodes](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Traversing nodes](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Singly Linked Lists — lesson 5](https://neetcode.io/courses/dsa-for-beginners/5). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write a while loop to traverse a linked list.
 - [ ] **10 min · Reflect:** Explain why iteration stops at None.
@@ -257,7 +262,7 @@
 
 ### Day 18 — Thu, Dec 10: Doubly linked nodes
 
-- [ ] **30 min · Python:** Study [Doubly linked nodes](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Doubly linked nodes](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Doubly Linked Lists — lesson 6](https://neetcode.io/courses/dsa-for-beginners/6). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Construct nodes with prev and next references.
 - [ ] **10 min · Reflect:** Draw both directions of a link.
@@ -268,7 +273,7 @@
 
 ### Day 19 — Fri, Dec 11: Queue with deque
 
-- [ ] **30 min · Python:** Study [Queue with deque](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Queue with deque](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Queues — lesson 7](https://neetcode.io/courses/dsa-for-beginners/7). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Enqueue three items and dequeue them with collections.deque.
 - [ ] **10 min · Reflect:** Explain first-in, first-out.
@@ -279,7 +284,7 @@
 
 ### Day 20 — Sat, Dec 12: Compare array/stack/queue/list
 
-- [ ] **30 min · Python:** Study [Compare array/stack/queue/list](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Compare array/stack/queue/list](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Singly Linked Lists — lesson 5](https://neetcode.io/courses/dsa-for-beginners/5), [Doubly Linked Lists — lesson 6](https://neetcode.io/courses/dsa-for-beginners/6), [Queues — lesson 7](https://neetcode.io/courses/dsa-for-beginners/7). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement each basic operation and make a small complexity table.
 - [ ] **10 min · Reflect:** Pick a suitable structure for a real scenario.
@@ -290,7 +295,7 @@
 
 ### Day 21 — Sun, Dec 13: Week 3 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 3 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 3 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Singly Linked Lists — lesson 5](https://neetcode.io/courses/dsa-for-beginners/5), [Queues — lesson 7](https://neetcode.io/courses/dsa-for-beginners/7). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Create a linked list of 3 nodes and a queue from scratch.
 - [ ] **10 min · Reflect:** Explain append vs head insertion.
@@ -307,7 +312,7 @@
 
 ### Day 22 — Mon, Dec 14: Function calls
 
-- [ ] **30 min · Python:** Study [Function calls](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Function calls](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Factorial — lesson 8](https://neetcode.io/courses/dsa-for-beginners/8). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write a function that prints a countdown to zero.
 - [ ] **10 min · Reflect:** Explain a call frame.
@@ -318,7 +323,7 @@
 
 ### Day 23 — Tue, Dec 15: Base cases
 
-- [ ] **30 min · Python:** Study [Base cases](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Base cases](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Factorial — lesson 8](https://neetcode.io/courses/dsa-for-beginners/8). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement factorial recursively and trace factorial(4).
 - [ ] **10 min · Reflect:** Identify the base case.
@@ -329,7 +334,7 @@
 
 ### Day 24 — Wed, Dec 16: Return values
 
-- [ ] **30 min · Python:** Study [Return values](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Return values](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Factorial — lesson 8](https://neetcode.io/courses/dsa-for-beginners/8). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Trace how factorial(4) returns back through calls.
 - [ ] **10 min · Reflect:** Explain why recursion terminates.
@@ -340,7 +345,7 @@
 
 ### Day 25 — Thu, Dec 17: Fibonacci introduction
 
-- [ ] **30 min · Python:** Study [Fibonacci introduction](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Fibonacci introduction](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Fibonacci Sequence — lesson 9](https://neetcode.io/courses/dsa-for-beginners/9). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write recursive Fibonacci for small n and draw calls for n=4.
 - [ ] **10 min · Reflect:** Explain repeated work.
@@ -351,7 +356,7 @@
 
 ### Day 26 — Fri, Dec 18: Fibonacci with loop
 
-- [ ] **30 min · Python:** Study [Fibonacci with loop](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Fibonacci with loop](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Fibonacci Sequence — lesson 9](https://neetcode.io/courses/dsa-for-beginners/9). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write iterative Fibonacci and compare outputs for n=0..8.
 - [ ] **10 min · Reflect:** Explain recursion vs iteration tradeoffs.
@@ -362,7 +367,7 @@
 
 ### Day 27 — Sat, Dec 19: Recursive list operations
 
-- [ ] **30 min · Python:** Study [Recursive list operations](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Recursive list operations](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Factorial — lesson 8](https://neetcode.io/courses/dsa-for-beginners/8), [Fibonacci Sequence — lesson 9](https://neetcode.io/courses/dsa-for-beginners/9). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write recursive sum_list for a short list.
 - [ ] **10 min · Reflect:** Identify how the problem gets smaller.
@@ -373,7 +378,7 @@
 
 ### Day 28 — Sun, Dec 20: Week 4 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 4 checkpoint](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 4 checkpoint](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Factorial — lesson 8](https://neetcode.io/courses/dsa-for-beginners/8), [Fibonacci Sequence — lesson 9](https://neetcode.io/courses/dsa-for-beginners/9). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo factorial and Fibonacci from memory, then describe time costs.
 - [ ] **10 min · Reflect:** Correctly trace a 3-level recursive call.
@@ -390,7 +395,7 @@
 
 ### Day 29 — Mon, Dec 21: Nested loops
 
-- [ ] **30 min · Python:** Study [Nested loops](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Nested loops](https://www.programiz.com/python-programming/for-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Insertion Sort — lesson 10](https://neetcode.io/courses/dsa-for-beginners/10). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Trace each comparison of insertion sort on [4,2,5,1].
 - [ ] **10 min · Reflect:** Explain O(n²) nested loops.
@@ -401,7 +406,7 @@
 
 ### Day 30 — Tue, Dec 22: Swapping and indices
 
-- [ ] **30 min · Python:** Study [Swapping and indices](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Swapping and indices](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Insertion Sort — lesson 10](https://neetcode.io/courses/dsa-for-beginners/10). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement insertion sort without built-in sort().
 - [ ] **10 min · Reflect:** Explain its invariant.
@@ -412,7 +417,7 @@
 
 ### Day 31 — Wed, Dec 23: Sorted merges
 
-- [ ] **30 min · Python:** Study [Sorted merges](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Sorted merges](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Merge Sort — lesson 11](https://neetcode.io/courses/dsa-for-beginners/11). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Merge [1,4,7] and [2,3,8] into one sorted list.
 - [ ] **10 min · Reflect:** Explain two-pointer merging.
@@ -423,7 +428,7 @@
 
 ### Day 32 — Thu, Dec 24: Merge-sort recursion
 
-- [ ] **30 min · Python:** Study [Merge-sort recursion](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Merge-sort recursion](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Merge Sort — lesson 11](https://neetcode.io/courses/dsa-for-beginners/11). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Trace splits of [8,3,6,1]; then merge results.
 - [ ] **10 min · Reflect:** Explain divide and conquer.
@@ -434,7 +439,7 @@
 
 ### Day 33 — Fri, Dec 25: Implement merge sort
 
-- [ ] **30 min · Python:** Study [Implement merge sort](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Implement merge sort](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Merge Sort — lesson 11](https://neetcode.io/courses/dsa-for-beginners/11). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write merge sort with a helper merge function.
 - [ ] **10 min · Reflect:** Explain base case of length ≤1.
@@ -445,7 +450,7 @@
 
 ### Day 34 — Sat, Dec 26: Compare sorting costs
 
-- [ ] **30 min · Python:** Study [Compare sorting costs](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Compare sorting costs](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Insertion Sort — lesson 10](https://neetcode.io/courses/dsa-for-beginners/10), [Merge Sort — lesson 11](https://neetcode.io/courses/dsa-for-beginners/11). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Time both sorts on small examples; discuss O(n²) vs O(n log n).
 - [ ] **10 min · Reflect:** Explain when insertion sort is simple/useful.
@@ -456,7 +461,7 @@
 
 ### Day 35 — Sun, Dec 27: Week 5 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 5 checkpoint](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 5 checkpoint](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Insertion Sort — lesson 10](https://neetcode.io/courses/dsa-for-beginners/10), [Merge Sort — lesson 11](https://neetcode.io/courses/dsa-for-beginners/11). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Sort [5,1,4,2,3] with both approaches without peeking.
 - [ ] **10 min · Reflect:** Trace each sort on paper.
@@ -473,7 +478,7 @@
 
 ### Day 36 — Mon, Dec 28: Partitioning
 
-- [ ] **30 min · Python:** Study [Partitioning](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Partitioning](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Quick Sort — lesson 12](https://neetcode.io/courses/dsa-for-beginners/12). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Trace one quicksort partition on [7,2,5,1,9].
 - [ ] **10 min · Reflect:** Explain a pivot.
@@ -484,7 +489,7 @@
 
 ### Day 37 — Tue, Dec 29: Quicksort recursion
 
-- [ ] **30 min · Python:** Study [Quicksort recursion](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Quicksort recursion](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Quick Sort — lesson 12](https://neetcode.io/courses/dsa-for-beginners/12). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement a simple extra-list quicksort; describe its tradeoffs.
 - [ ] **10 min · Reflect:** Explain average and worst-case time.
@@ -495,7 +500,7 @@
 
 ### Day 38 — Wed, Dec 30: Frequency counting
 
-- [ ] **30 min · Python:** Study [Frequency counting](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Frequency counting](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Bucket Sort — lesson 13](https://neetcode.io/courses/dsa-for-beginners/13). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement bucket/counting sort for small nonnegative integers.
 - [ ] **10 min · Reflect:** Explain assumptions about value range.
@@ -506,7 +511,7 @@
 
 ### Day 39 — Thu, Dec 31: Binary search indices
 
-- [ ] **30 min · Python:** Study [Binary search indices](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Binary search indices](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Search Array — lesson 14](https://neetcode.io/courses/dsa-for-beginners/14). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Search a sorted list using left, right, mid.
 - [ ] **10 min · Reflect:** Explain why sorted input matters.
@@ -517,7 +522,7 @@
 
 ### Day 40 — Fri, Jan 01: Binary search boundaries
 
-- [ ] **30 min · Python:** Study [Binary search boundaries](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Binary search boundaries](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Search Range — lesson 15](https://neetcode.io/courses/dsa-for-beginners/15). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Find the first occurrence of a target in sorted duplicates.
 - [ ] **10 min · Reflect:** Explain boundary updates.
@@ -528,7 +533,7 @@
 
 ### Day 41 — Sat, Jan 02: Compare search methods
 
-- [ ] **30 min · Python:** Study [Compare search methods](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Compare search methods](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Search Array — lesson 14](https://neetcode.io/courses/dsa-for-beginners/14), [Search Range — lesson 15](https://neetcode.io/courses/dsa-for-beginners/15). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Compare linear vs binary search over 8 values.
 - [ ] **10 min · Reflect:** Explain O(log n).
@@ -539,7 +544,7 @@
 
 ### Day 42 — Sun, Jan 03: Week 6 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 6 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 6 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Quick Sort — lesson 12](https://neetcode.io/courses/dsa-for-beginners/12), [Bucket Sort — lesson 13](https://neetcode.io/courses/dsa-for-beginners/13), [Search Array — lesson 14](https://neetcode.io/courses/dsa-for-beginners/14), [Search Range — lesson 15](https://neetcode.io/courses/dsa-for-beginners/15). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo binary search and one sort from scratch.
 - [ ] **10 min · Reflect:** Explain off-by-one bugs.
@@ -556,7 +561,7 @@
 
 ### Day 43 — Mon, Jan 04: TreeNode class
 
-- [ ] **30 min · Python:** Study [TreeNode class](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [TreeNode class](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Binary Tree — lesson 16](https://neetcode.io/courses/dsa-for-beginners/16). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Create a root with two children; print their values.
 - [ ] **10 min · Reflect:** Identify root, parent, leaf.
@@ -567,7 +572,7 @@
 
 ### Day 44 — Tue, Jan 05: Recursive tree depth
 
-- [ ] **30 min · Python:** Study [Recursive tree depth](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Recursive tree depth](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Binary Tree — lesson 16](https://neetcode.io/courses/dsa-for-beginners/16). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Compute height of a small tree.
 - [ ] **10 min · Reflect:** Identify null-node base case.
@@ -578,7 +583,7 @@
 
 ### Day 45 — Wed, Jan 06: BST comparisons
 
-- [ ] **30 min · Python:** Study [BST comparisons](https://www.programiz.com/python-programming/if-elif-else). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BST comparisons](https://www.programiz.com/python-programming/if-elif-else). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Binary Search Tree — lesson 17](https://neetcode.io/courses/dsa-for-beginners/17). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Search for a value in a hand-built BST.
 - [ ] **10 min · Reflect:** Explain BST ordering.
@@ -589,7 +594,7 @@
 
 ### Day 46 — Thu, Jan 07: BST search implementation
 
-- [ ] **30 min · Python:** Study [BST search implementation](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BST search implementation](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Binary Search Tree — lesson 17](https://neetcode.io/courses/dsa-for-beginners/17). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement iterative or recursive BST search.
 - [ ] **10 min · Reflect:** Explain best/worst search shape.
@@ -600,7 +605,7 @@
 
 ### Day 47 — Fri, Jan 08: BST insert
 
-- [ ] **30 min · Python:** Study [BST insert](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BST insert](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [BST Insert and Remove — lesson 18](https://neetcode.io/courses/dsa-for-beginners/18). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Insert three values while maintaining order.
 - [ ] **10 min · Reflect:** Trace which branch is chosen.
@@ -611,7 +616,7 @@
 
 ### Day 48 — Sat, Jan 09: BST delete concept
 
-- [ ] **30 min · Python:** Study [BST delete concept](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BST delete concept](https://www.programiz.com/python-programming/class). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [BST Insert and Remove — lesson 18](https://neetcode.io/courses/dsa-for-beginners/18). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Draw the 0-child, 1-child, 2-child deletion cases.
 - [ ] **10 min · Reflect:** Explain predecessor/successor idea.
@@ -622,7 +627,7 @@
 
 ### Day 49 — Sun, Jan 10: Week 7 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 7 checkpoint](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 7 checkpoint](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Binary Tree — lesson 16](https://neetcode.io/courses/dsa-for-beginners/16), [Binary Search Tree — lesson 17](https://neetcode.io/courses/dsa-for-beginners/17), [BST Insert and Remove — lesson 18](https://neetcode.io/courses/dsa-for-beginners/18). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Build a small BST and test search + insert.
 - [ ] **10 min · Reflect:** Explain binary tree vs BST.
@@ -639,7 +644,7 @@
 
 ### Day 50 — Mon, Jan 11: Recursive DFS
 
-- [ ] **30 min · Python:** Study [Recursive DFS](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Recursive DFS](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Depth-First Search — lesson 19](https://neetcode.io/courses/dsa-for-beginners/19). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement preorder traversal of a small tree.
 - [ ] **10 min · Reflect:** Trace recursion order.
@@ -650,7 +655,7 @@
 
 ### Day 51 — Tue, Jan 12: Inorder and postorder
 
-- [ ] **30 min · Python:** Study [Inorder and postorder](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Inorder and postorder](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Depth-First Search — lesson 19](https://neetcode.io/courses/dsa-for-beginners/19). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write inorder/postorder on the same tree.
 - [ ] **10 min · Reflect:** Predict traversal output.
@@ -661,7 +666,7 @@
 
 ### Day 52 — Wed, Jan 13: BFS with deque
 
-- [ ] **30 min · Python:** Study [BFS with deque](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BFS with deque](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Breadth-First Search — lesson 20](https://neetcode.io/courses/dsa-for-beginners/20). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement level-order traversal.
 - [ ] **10 min · Reflect:** Explain the queue's role.
@@ -672,7 +677,7 @@
 
 ### Day 53 — Thu, Jan 14: BFS vs DFS
 
-- [ ] **30 min · Python:** Study [BFS vs DFS](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BFS vs DFS](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Depth-First Search — lesson 19](https://neetcode.io/courses/dsa-for-beginners/19), [Breadth-First Search — lesson 20](https://neetcode.io/courses/dsa-for-beginners/20). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Compare traversal outputs and memory use.
 - [ ] **10 min · Reflect:** Choose DFS or BFS for a given goal.
@@ -683,7 +688,7 @@
 
 ### Day 54 — Fri, Jan 15: BST sets/maps
 
-- [ ] **30 min · Python:** Study [BST sets/maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [BST sets/maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [BST Sets and Maps — lesson 21](https://neetcode.io/courses/dsa-for-beginners/21). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Use a Python set/dict; compare to BST-backed collection.
 - [ ] **10 min · Reflect:** Explain key uniqueness.
@@ -694,7 +699,7 @@
 
 ### Day 55 — Sat, Jan 16: Backtracking
 
-- [ ] **30 min · Python:** Study [Backtracking](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Backtracking](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Tree Maze — lesson 22](https://neetcode.io/courses/dsa-for-beginners/22). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Explore paths in a 2-choice tree; undo a choice after exploring.
 - [ ] **10 min · Reflect:** Explain choose → explore → undo.
@@ -705,7 +710,7 @@
 
 ### Day 56 — Sun, Jan 17: Week 8 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 8 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 8 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Depth-First Search — lesson 19](https://neetcode.io/courses/dsa-for-beginners/19), [Breadth-First Search — lesson 20](https://neetcode.io/courses/dsa-for-beginners/20), [Tree Maze — lesson 22](https://neetcode.io/courses/dsa-for-beginners/22). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo DFS and BFS without notes.
 - [ ] **10 min · Reflect:** Explain a traversal using a drawing.
@@ -722,7 +727,7 @@
 
 ### Day 57 — Mon, Jan 18: Priority and heap shape
 
-- [ ] **30 min · Python:** Study [Priority and heap shape](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Priority and heap shape](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Heap Properties — lesson 23](https://neetcode.io/courses/dsa-for-beginners/23). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Draw a min heap and identify its root.
 - [ ] **10 min · Reflect:** Explain min-heap property.
@@ -733,7 +738,7 @@
 
 ### Day 58 — Tue, Jan 19: heapq push/pop
 
-- [ ] **30 min · Python:** Study [heapq push/pop](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [heapq push/pop](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Push and Pop — lesson 24](https://neetcode.io/courses/dsa-for-beginners/24). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Insert values and repeatedly extract minimum.
 - [ ] **10 min · Reflect:** Predict pop order.
@@ -744,7 +749,7 @@
 
 ### Day 59 — Wed, Jan 20: Heapify
 
-- [ ] **30 min · Python:** Study [Heapify](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Heapify](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Heapify — lesson 25](https://neetcode.io/courses/dsa-for-beginners/25). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Use heapq.heapify and compare with repeated heappush.
 - [ ] **10 min · Reflect:** Explain heapify goal.
@@ -755,7 +760,7 @@
 
 ### Day 60 — Thu, Jan 21: Hash maps
 
-- [ ] **30 min · Python:** Study [Hash maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Hash maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Solve frequency counting and duplicate detection.
 - [ ] **10 min · Reflect:** Explain average lookup.
@@ -766,7 +771,7 @@
 
 ### Day 61 — Fri, Jan 22: Hash tables internals
 
-- [ ] **30 min · Python:** Study [Hash tables internals](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Hash tables internals](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Hash Implementation — lesson 27](https://neetcode.io/courses/dsa-for-beginners/27). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Draw buckets and collisions; implement toy modulo hashing.
 - [ ] **10 min · Reflect:** Explain collisions.
@@ -777,7 +782,7 @@
 
 ### Day 62 — Sat, Jan 23: Heap vs hash map
 
-- [ ] **30 min · Python:** Study [Heap vs hash map](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Heap vs hash map](https://www.bigocheatsheet.com/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Heap Properties — lesson 23](https://neetcode.io/courses/dsa-for-beginners/23), [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Choose structures for top-priority versus lookup tasks.
 - [ ] **10 min · Reflect:** Explain different use cases.
@@ -788,7 +793,7 @@
 
 ### Day 63 — Sun, Jan 24: Week 9 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 9 checkpoint](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 9 checkpoint](https://docs.python.org/3/library/heapq.html). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Push and Pop — lesson 24](https://neetcode.io/courses/dsa-for-beginners/24), [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Build small heap and frequency dictionary from scratch.
 - [ ] **10 min · Reflect:** Explain heap and dictionary operations.
@@ -805,7 +810,7 @@
 
 ### Day 64 — Mon, Jan 25: Graph vocabulary
 
-- [ ] **30 min · Python:** Study [Graph vocabulary](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Graph vocabulary](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Intro to Graphs — lesson 28](https://neetcode.io/courses/dsa-for-beginners/28). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Represent A-B, A-C, B-D as adjacency lists.
 - [ ] **10 min · Reflect:** Define vertex, edge, neighbor.
@@ -816,7 +821,7 @@
 
 ### Day 65 — Tue, Jan 26: DFS visited sets
 
-- [ ] **30 min · Python:** Study [DFS visited sets](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [DFS visited sets](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Intro to Graphs — lesson 28](https://neetcode.io/courses/dsa-for-beginners/28). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write graph DFS using a visited set.
 - [ ] **10 min · Reflect:** Explain why visited is needed.
@@ -827,7 +832,7 @@
 
 ### Day 66 — Wed, Jan 27: Grid neighbors
 
-- [ ] **30 min · Python:** Study [Grid neighbors](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Grid neighbors](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Matrix DFS — lesson 29](https://neetcode.io/courses/dsa-for-beginners/29). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Count connected cells in a 3×3 grid with DFS.
 - [ ] **10 min · Reflect:** Check row/column bounds.
@@ -838,7 +843,7 @@
 
 ### Day 67 — Thu, Jan 28: Matrix DFS practice
 
-- [ ] **30 min · Python:** Study [Matrix DFS practice](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Matrix DFS practice](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Matrix DFS — lesson 29](https://neetcode.io/courses/dsa-for-beginners/29). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Explore one island-like shape and draw visited cells.
 - [ ] **10 min · Reflect:** Explain each recursive branch.
@@ -849,7 +854,7 @@
 
 ### Day 68 — Fri, Jan 29: Matrix BFS
 
-- [ ] **30 min · Python:** Study [Matrix BFS](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Matrix BFS](https://docs.python.org/3/library/collections.html#collections.deque). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Matrix BFS — lesson 30](https://neetcode.io/courses/dsa-for-beginners/30). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Traverse a grid by levels using deque.
 - [ ] **10 min · Reflect:** Explain BFS frontier.
@@ -860,7 +865,7 @@
 
 ### Day 69 — Sat, Jan 30: Adjacency list traversal
 
-- [ ] **30 min · Python:** Study [Adjacency list traversal](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Adjacency list traversal](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Adjacency List — lesson 31](https://neetcode.io/courses/dsa-for-beginners/31). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Build adjacency lists and traverse them.
 - [ ] **10 min · Reflect:** Explain O(V+E) intuitively.
@@ -871,7 +876,7 @@
 
 ### Day 70 — Sun, Jan 31: Week 10 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 10 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 10 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Intro to Graphs — lesson 28](https://neetcode.io/courses/dsa-for-beginners/28), [Matrix DFS — lesson 29](https://neetcode.io/courses/dsa-for-beginners/29), [Matrix BFS — lesson 30](https://neetcode.io/courses/dsa-for-beginners/30), [Adjacency List — lesson 31](https://neetcode.io/courses/dsa-for-beginners/31). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo graph or grid traversal without notes.
 - [ ] **10 min · Reflect:** Explain matrix vs adjacency list.
@@ -888,7 +893,7 @@
 
 ### Day 71 — Mon, Feb 01: Overlapping subproblems
 
-- [ ] **30 min · Python:** Study [Overlapping subproblems](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Overlapping subproblems](https://www.programiz.com/python-programming/recursion). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [1-Dimension DP — lesson 32](https://neetcode.io/courses/dsa-for-beginners/32). Pause and trace one example by hand.
 - [ ] **40 min · Code:** List repeated Fibonacci calls; add caching.
 - [ ] **10 min · Reflect:** Define DP in plain English.
@@ -899,7 +904,7 @@
 
 ### Day 72 — Tue, Feb 02: Memoization
 
-- [ ] **30 min · Python:** Study [Memoization](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Memoization](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [1-Dimension DP — lesson 32](https://neetcode.io/courses/dsa-for-beginners/32). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement memoized Fibonacci; count calls.
 - [ ] **10 min · Reflect:** Explain cache keys.
@@ -910,7 +915,7 @@
 
 ### Day 73 — Wed, Feb 03: Tabulation
 
-- [ ] **30 min · Python:** Study [Tabulation](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Tabulation](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [1-Dimension DP — lesson 32](https://neetcode.io/courses/dsa-for-beginners/32). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Implement bottom-up climb-stairs style counting.
 - [ ] **10 min · Reflect:** Explain state and transition.
@@ -921,7 +926,7 @@
 
 ### Day 74 — Thu, Feb 04: 2D table basics
 
-- [ ] **30 min · Python:** Study [2D table basics](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [2D table basics](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [2-Dimension DP — lesson 33](https://neetcode.io/courses/dsa-for-beginners/33). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Create and fill a small 2D table.
 - [ ] **10 min · Reflect:** Read dp[row][col] correctly.
@@ -932,7 +937,7 @@
 
 ### Day 75 — Fri, Feb 05: 2D DP practice
 
-- [ ] **30 min · Python:** Study [2D DP practice](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [2D DP practice](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [2-Dimension DP — lesson 33](https://neetcode.io/courses/dsa-for-beginners/33). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Count paths through a small grid without obstacles.
 - [ ] **10 min · Reflect:** Explain recurrence from top/left.
@@ -943,7 +948,7 @@
 
 ### Day 76 — Sat, Feb 06: Binary representation
 
-- [ ] **30 min · Python:** Study [Binary representation](https://www.programiz.com/python-programming/operators). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Binary representation](https://www.programiz.com/python-programming/operators). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Bit Operations — lesson 34](https://neetcode.io/courses/dsa-for-beginners/34). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Write integers 0–15 in binary; test &, |, ^.
 - [ ] **10 min · Reflect:** Explain one bitwise operation.
@@ -954,7 +959,7 @@
 
 ### Day 77 — Sun, Feb 07: Week 11 checkpoint
 
-- [ ] **30 min · Python:** Study [Week 11 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Week 11 checkpoint](https://www.programiz.com/python-programming/function). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [1-Dimension DP — lesson 32](https://neetcode.io/courses/dsa-for-beginners/32), [2-Dimension DP — lesson 33](https://neetcode.io/courses/dsa-for-beginners/33), [Bit Operations — lesson 34](https://neetcode.io/courses/dsa-for-beginners/34). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo one 1D DP and one bit exercise.
 - [ ] **10 min · Reflect:** Explain a base case and transition.
@@ -971,7 +976,7 @@
 
 ### Day 78 — Mon, Feb 08: Arrays and sets
 
-- [ ] **30 min · Python:** Study [Arrays and sets](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Arrays and sets](https://www.programiz.com/python-programming/set). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Static Arrays — lesson 2](https://neetcode.io/courses/dsa-for-beginners/2), [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Attempt Contains Duplicate without hints.
 - [ ] **10 min · Reflect:** Explain time and space costs.
@@ -982,7 +987,7 @@
 
 ### Day 79 — Tue, Feb 09: Hash maps
 
-- [ ] **30 min · Python:** Study [Hash maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Hash maps](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Attempt Two Sum without hints.
 - [ ] **10 min · Reflect:** Explain what dictionary stores.
@@ -993,7 +998,7 @@
 
 ### Day 80 — Wed, Feb 10: Strings and counts
 
-- [ ] **30 min · Python:** Study [Strings and counts](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Strings and counts](https://www.programiz.com/python-programming/dictionary). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Hash Usage — lesson 26](https://neetcode.io/courses/dsa-for-beginners/26). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Attempt Valid Anagram.
 - [ ] **10 min · Reflect:** Explain frequency comparison.
@@ -1004,7 +1009,7 @@
 
 ### Day 81 — Thu, Feb 11: Stacks
 
-- [ ] **30 min · Python:** Study [Stacks](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Stacks](https://www.programiz.com/python-programming/list). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Stacks — lesson 4](https://neetcode.io/courses/dsa-for-beginners/4). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Attempt Valid Parentheses.
 - [ ] **10 min · Reflect:** Explain push/pop decisions.
@@ -1015,7 +1020,7 @@
 
 ### Day 82 — Fri, Feb 12: Binary search
 
-- [ ] **30 min · Python:** Study [Binary search](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Binary search](https://www.programiz.com/python-programming/while-loop). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Search Array — lesson 14](https://neetcode.io/courses/dsa-for-beginners/14). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Attempt Binary Search.
 - [ ] **10 min · Reflect:** Avoid infinite loops/off-by-one errors.
@@ -1026,7 +1031,7 @@
 
 ### Day 83 — Sat, Feb 13: Weakest topic review
 
-- [ ] **30 min · Python:** Study [Weakest topic review](https://docs.python.org/3/tutorial/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Weakest topic review](https://docs.python.org/3/tutorial/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Depth-First Search — lesson 19](https://neetcode.io/courses/dsa-for-beginners/19), [Matrix DFS — lesson 29](https://neetcode.io/courses/dsa-for-beginners/29), [1-Dimension DP — lesson 32](https://neetcode.io/courses/dsa-for-beginners/32). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Redo two previously missed course exercises.
 - [ ] **10 min · Reflect:** Explain both solutions aloud.
@@ -1037,7 +1042,7 @@
 
 ### Day 84 — Sun, Feb 14: Final checkpoint
 
-- [ ] **30 min · Python:** Study [Final checkpoint](https://docs.python.org/3/tutorial/). Write and run 2 examples of your own.
+- [ ] **30 min · Python:** Open the lesson: [Final checkpoint](https://docs.python.org/3/tutorial/). Write and run 2 examples of your own.
 - [ ] **40 min · NeetCode:** [Introduction — lesson 0](https://neetcode.io/courses/dsa-for-beginners/0), [Bit Operations — lesson 34](https://neetcode.io/courses/dsa-for-beginners/34). Pause and trace one example by hand.
 - [ ] **40 min · Code:** Revisit your notes; implement three basics without solutions; write your next-month plan.
 - [ ] **10 min · Reflect:** Identify strengths and two concepts to review.
